@@ -1,10 +1,10 @@
+package br.com.alura.jdbc;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import br.com.alura.jdbc.ConnectionFactory;
 import br.com.alura.jdbc.modelo.Produto;
 
 public class TestaInsercaoComProduto {
